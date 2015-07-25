@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE keyboard PUBLIC "" "file://localhost/System/Library/DTDs/KeyboardLayout.dtd">
-<!--Last edited by Ukelele version 2.2.8 on 2015-07-25 at 22:53 (BST)-->
+<!--Last edited by Ukelele version 2.2.8 on 2015-07-26 at 00:47 (BST)-->
 <!---->
 <keyboard group="29" id="30763" name="HungarianWin" maxout="1">
     <layouts>
@@ -641,7 +641,7 @@
             <key code="35" output="õ"/>
             <key code="36" output="&#x000D;"/>
             <key code="37" output="ē"/>
-            <key code="38" output="Ē"/>
+            <key code="38" output="Í"/>
             <key code="39" output="Ä"/>
             <key code="40" output="ū"/>
             <key code="41" output="$"/>
