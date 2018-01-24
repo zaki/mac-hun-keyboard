@@ -165,7 +165,7 @@
             <key code="7" output="X"/>
             <key code="8" action="14"/>
             <key code="9" output="V"/>
-            <key code="10" output="§"/>
+            <key code="10" output="Í"/>
             <key code="11" output="B"/>
             <key code="12" output="Q"/>
             <key code="13" output="W"/>
@@ -205,7 +205,7 @@
             <key code="47" output=":"/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action="5"/>
-            <key code="50" output="Í"/>
+            <key code="50" output="§"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
@@ -277,7 +277,7 @@
             <key code="7" output="X"/>
             <key code="8" action="14"/>
             <key code="9" output="V"/>
-            <key code="10" output="0"/>
+            <key code="10" output="Í"/>
             <key code="11" output="B"/>
             <key code="12" output="Q"/>
             <key code="13" output="W"/>
@@ -317,7 +317,7 @@
             <key code="47" output="."/>
             <key code="48" output="&#x0009;"/>
             <key code="49" action="5"/>
-            <key code="50" output="Í"/>
+            <key code="50" output="0"/>
             <key code="51" output="&#x0008;"/>
             <key code="52" output="&#x0003;"/>
             <key code="53" output="&#x001B;"/>
