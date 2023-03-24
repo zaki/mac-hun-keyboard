@@ -28,7 +28,7 @@ left of 1.
 
 ## HungarianWinV2
 
-This is basicly the same as `HungarianWin` but `0` and `í` characters are switched,
+This is basically the same as `HungarianWin` but `0` and `í` characters are switched,
 in order to fix issues with Hungarian PC keyboards.
 
 # License
