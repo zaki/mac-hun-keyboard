@@ -3,7 +3,9 @@
 Copy the keylayout file into `/Library/Keyboard Layouts/` and you can then
 select the new layout from System Preferences > Language & Text > Input Sources
 
-# Layout
+# Layouts
+
+## HungarianWin
 
 This layout puts the most important (for programming) characters back to
 where they usually are on a PC keyboard (Windows, Linux, probably every
@@ -23,6 +25,11 @@ I had pretty good luck with this on a wireless keyboard with US keys, but YMMV.
 If you are stuck with a JP keyboard, either learn a new layout, or you can
 still use Ctrl-Alt-0 to enter a 0, because the keyboard misses a key on the
 left of 1.
+
+## HungarianWinV2
+
+This is basically the same as `HungarianWin` but `0` and `í` characters are switched,
+in order to fix issues with Hungarian PC keyboards.
 
 # License
 
